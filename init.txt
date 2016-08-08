@@ -1,3 +1,2 @@
 new line 1
 new line 1 by branch_test_1
-new line 2
